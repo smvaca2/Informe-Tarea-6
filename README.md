@@ -28,19 +28,19 @@
 
 ***3. EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS***
 
-![]()
+![](https://github.com/smvaca2/Informe-Tarea-6/blob/5d35103517cf3f491b10adf9150fc7273c39bd5c/a.PNG)
 
-![]()
+![](https://github.com/smvaca2/Informe-Tarea-6/blob/5d35103517cf3f491b10adf9150fc7273c39bd5c/b.PNG)
 
-![]()
+![](https://github.com/smvaca2/Informe-Tarea-6/blob/5d35103517cf3f491b10adf9150fc7273c39bd5c/c.PNG)
 
-![]()
+![](https://github.com/smvaca2/Informe-Tarea-6/blob/5d35103517cf3f491b10adf9150fc7273c39bd5c/d.PNG)
 
-![]()
+![](https://github.com/smvaca2/Informe-Tarea-6/blob/5d35103517cf3f491b10adf9150fc7273c39bd5c/e.PNG)
 
-![]()
+![](https://github.com/smvaca2/Informe-Tarea-6/blob/5d35103517cf3f491b10adf9150fc7273c39bd5c/f.PNG)
 
-![]()
+![](https://github.com/smvaca2/Informe-Tarea-6/blob/5d35103517cf3f491b10adf9150fc7273c39bd5c/g.PNG)
 
 ![]()
 
